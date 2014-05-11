@@ -1,0 +1,10 @@
+{
+	"penguinLB.angry": {"category": "master", "sounds": [{"name": "penguinLB/angry","stream": false}]},
+	"penguinLB.death": {"category": "master", "sounds": [{"name": "penguinLB/death","stream": false}]},
+	"penguinLB.healtha": {"category": "master", "sounds": [{"name": "penguinLB/healtha","stream": false}]},
+	"penguinLB.healthb": {"category": "master", "sounds": [{"name": "penguinLB/healthb","stream": false}]},
+	"penguinLB.healthc": {"category": "master", "sounds": [{"name": "penguinLB/healthc","stream": false}]},
+	"penguinLB.healthd": {"category": "master", "sounds": [{"name": "penguinLB/healthd","stream": false}]},
+	"penguinLB.hurt": {"category": "master", "sounds": [{"name": "penguinLB/hurt","stream": false}]}
+}
+

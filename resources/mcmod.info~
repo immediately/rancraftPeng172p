@@ -1,0 +1,17 @@
+[
+{
+  "modid": "rancraftpenguins",
+  "name": "Rancraft Penguins",
+  "description": "Adds fifteen species of penguins, plus penguin armor and penguin weapons. (v.o2 just improves some textures and recipes)",
+  "version": "1.6.4o2",
+  "credits": "Created by The Rancraft Team",
+  "logoFile": "/rcp_logo.png",
+  "mcversion": "1.6.4",
+  "url": "http://rancraftpenguins.wikia.com",
+  "updateUrl": "http://www.minecraftforum.net/topic/910095-",
+  "authors": [ "immediately", "randalpik" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
+}
+]
